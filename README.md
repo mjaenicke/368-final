@@ -1,19 +1,20 @@
 368-final
 =========
 
-##Objective
+#Objective
 My objective for my website: 
 
 * Web Prescence
 * Portfolio
 
-##Content
+#Content
 
 * About Me
 * Writing
 * Design
 * Code
 
-##Attribution
+#Attribution
 
 * [CodePen] (http://codepen.io)
+* [Fenway Park Image] (http://www.baseballpilgrimages.com/american/fenwaypark.jpg)
